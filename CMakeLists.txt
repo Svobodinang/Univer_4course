@@ -6,4 +6,5 @@ find_package(OpenCV REQUIRED)
 
 add_subdirectory(z1)
 add_subdirectory(z2)
-add_subdirectory(z3) 
+add_subdirectory(z3)
+add_subdirectory(kr1)
